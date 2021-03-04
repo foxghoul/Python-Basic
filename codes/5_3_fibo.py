@@ -2,9 +2,9 @@ first = 1
 second = 1
 print(first)
 print(second)
-turn = 28
+turn = 10
 while True:
-    third =first + second
+    third = first + second
     print(third)
     first = second
     second = third
